@@ -1,11 +1,11 @@
 package Black;
 
 public class JunkFood {
-   private int id;
-   private String username;
-   private String password;
-   private int sex;
-   private String love;
+   private int id;//学号
+   private String username;//姓名
+   private String password;//密码
+   private int sex;//性别
+   private String love;//喜好
 public int getId() {
 	return id;
 }
